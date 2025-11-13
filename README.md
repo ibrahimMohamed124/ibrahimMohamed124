@@ -26,8 +26,9 @@
 ## ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,mssql,cpp,c,java,dart,html,css,javascript,python,odoo,git,visualstudio,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=csharp-dotnet,mssql,cpp,c,java,dart,html,css,javascript,python,odoo,git,visualstudio,vscode&perline=7" alt="skills" />
 </p>
+
 
 ---
 
