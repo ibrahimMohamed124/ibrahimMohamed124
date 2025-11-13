@@ -26,7 +26,7 @@
 ## ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,dart,python,html,css,javascript,dotnet,git,visualstudio,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,dart,python,html,css,javascript,dotnet,git,postman,visualstudio,vscode&perline=7" alt="skills" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## ✨ What’s Next?
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,aws,bash,postman&perline=6" alt="learning next" />
+  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,azure,bash,postman&perline=6" alt="learning next" />
 </p>
 
 ---
