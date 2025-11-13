@@ -1,4 +1,4 @@
-<!-- README: Ultra Premium Animated Profile for Karim Hisham -->
+<!-- README: Ultra Premium Animated Profile for Ibrahim Mohamed -->
 <div align="center">
 
 <!-- 🌌 Neon Animated Header -->
@@ -34,7 +34,7 @@
 ## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kareem-dev-del&theme=matrix&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimMohamed124&theme=matrix&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
 
 <p align="center">
@@ -46,12 +46,12 @@
 ## 📊 GitHub Stats (Dark Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimMohamed124&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimMohamed124&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ibrahimMohamed124&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareem-dev-del&color=00e6b8&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ibrahimMohamed124&color=00e6b8&style=flat-square" alt="Profile Views"/>
 </p>
