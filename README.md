@@ -17,7 +17,7 @@
 
 - 🎓 Software Engineer  
 - 💻 Full-Stack .NET Developer focused on Microsoft Technologies and Odoo ERP  
-- ⚙ Skilled in C#, C/C++, Java, HTML, CSS, JavaScript  
+- ⚙ Skilled in C#, C/C++, Java, Python, HTML, CSS, JavaScript  
 - 🧩 Passionate about building strong backend systems and clean UI integration  
 - 🚀 Aim: Become one of the top open-source contributors in the dev community  
 
