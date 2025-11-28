@@ -45,14 +45,21 @@
 
 ## 📊 GitHub Stats (Dark Animated)
 
+## 📊 GitHub Stats (Dark Theme)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimMohamed124&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimMohamed124&layout=compact&theme=radical&hide_border=true" height="165" />
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimMohamed124&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimMohamed124&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ibrahimMohamed124&theme=radical&hide_border=true" height="165" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimMohamed124&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
