@@ -17,8 +17,9 @@
 
 - 🎓 Software Engineer  
 - 💻 Full-Stack .NET Developer focused on Microsoft Technologies and Odoo ERP  
-- ⚙ Skilled in C#, C/C++, Java, Python, HTML, CSS, JavaScript  
-- 🧩 Passionate about building strong backend systems and clean UI integration  
+- ⚙ Skilled in C#, C/C++, Java, Python, HTML, CSS, JavaScript, and x86/x64 Assembly  
+- 🐧 Experienced in Linux Ubuntu environment and shell scripting  
+- 🧩 Passionate about building strong backend systems, reverse engineering, and clean UI integration  
 - 🚀 Aim: Become one of the top open-source contributors in the dev community  
 
 ---
@@ -26,7 +27,7 @@
 ## ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,dart,python,html,css,javascript,dotnet,git,postman,visualstudio,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,dart,python,html,css,javascript,dotnet,git,postman,visualstudio,vscode,bash" alt="skills" />
 </p>
 
 ---
@@ -58,16 +59,16 @@
 
 ## 🧭 Learning Path
 
-- 🔹 Next 3 Months: Docker · DRF Advanced · Testing (Unit & Integration)  
-- 🔹 6 Months: CI/CD with GitHub Actions · Deploying full production apps  
-- 🔹 1 Year: Build open-source projects and publish technical write-ups  
+- 🔹 Next 3 Months: Docker · DRF Advanced · Testing (Unit & Integration) · x86/x64 Assembly Projects  
+- 🔹 6 Months: CI/CD with GitHub Actions · Deploying full production apps on Linux Ubuntu  
+- 🔹 1 Year: Build open-source projects, system-level programming, and publish technical write-ups  
 
 ---
 
 ## ✨ What’s Next?
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,azure,bash,postman&perline=6" alt="learning next" />
+  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,azure,bash,postman,linux&perline=7" alt="learning next" />
 </p>
 
 ---
@@ -90,4 +91,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahimMohamed124&color=00e6b8&style=flat-square" alt="Profile Views"/>
 </p>
-
