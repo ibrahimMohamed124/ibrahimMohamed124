@@ -1,135 +1,99 @@
-<!-- ================= WINDOWS 95 README ================= -->
-
+<!-- README: Ultra Premium Animated Profile for Ibrahim Mohamed -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E0E0E0&height=120&section=header&text=Ibrahim%20Mohamed&fontSize=40&fontColor=000000" />
+<!-- 🌌 Neon Animated Header -->
+> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+I'm+Ibrahim+Mohamed+👋;Software+Engineer+💻;Welcome+to+my+world+🌍!" alt="Typing SVG" />
+
+
+<!-- 🎯 Professional Tech Illustration -->
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+  width="120"
+  alt="GitHub Logo"
+  style="margin-top:15px;opacity:0.85"
+/>
+
+<p>📍 Alexandria, Egypt 🇪🇬</p>
 
 </div>
 
-<table align="center" width="100%" style="border:2px solid #000;background:#C0C0C0;">
-<tr>
-<td style="background:#000080;color:white;padding:6px;font-weight:bold;">
-🪟 Windows 95 - Profile.exe
-</td>
-</tr>
-<tr>
-<td style="padding:12px;font-family:monospace;">
+---
 
-<b>Name:</b> Ibrahim Mohamed<br>
-<b>Title:</b> Software Engineer<br>
-<b>Location:</b> Alexandria, Egypt<br>
-<b>Status:</b> System Running Normally ✅
+## 🧠 About Me
 
-</td>
-</tr>
-</table>
+- 🎓 Software Engineer  
+- 💻 Full-Stack .NET Developer focused on Microsoft Technologies and Odoo ERP  
+- ⚙ Skilled in C#, C/C++, Java, Python, HTML, CSS, JavaScript, and x86/x64 Assembly  
+- 🐧 Experienced in Linux Ubuntu environment and shell scripting  
+- 🧩 Passionate about building strong backend systems, reverse engineering, and clean UI integration  
+- 🚀 Aim: Become one of the top open-source contributors in the dev community  
 
-<br>
+---
 
-<table width="100%" style="border:2px solid #000;background:#FFFFFF;">
-<tr>
-<td style="background:#C0C0C0;padding:6px;font-weight:bold;">
-📁 ABOUT_ME.TXT
-</td>
-</tr>
-<tr>
-<td style="padding:12px;font-family:monospace;">
+## ⚙ Tech Stack
 
-- Software Engineer  
-- Full-Stack .NET Developer  
-- Microsoft Technologies & Odoo ERP  
-- Backend Systems • Reverse Engineering  
-- Clean UI Integration  
-- Goal: Top Open-Source Contributor 🚀  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,dart,python,html,css,javascript,dotnet,git,postman,visualstudio,vscode,bash" alt="skills" />
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-<br>
+## 🏆 Achievements & Highlights
 
-<table width="100%" style="border:2px solid #000;background:#FFFFFF;">
-<tr>
-<td style="background:#C0C0C0;padding:6px;font-weight:bold;">
-⚙ TECH_STACK.INI
-</td>
-</tr>
-<tr>
-<td style="padding:12px;">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimMohamed124&theme=matrix&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,java,python,html,css,javascript,dotnet,git,bash&perline=6" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimMohamed124&theme=github_dark" alt="profile summary"/>
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-<br>
+## 📊 GitHub Stats (Dark Animated)
 
-<table width="100%" style="border:2px solid #000;background:#FFFFFF;">
-<tr>
-<td style="background:#C0C0C0;padding:6px;font-weight:bold;">
-📊 SYSTEM_STATS.DLL
-</td>
-</tr>
-<tr>
-<td align="center" style="padding:12px;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimMohamed124&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimMohamed124&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimMohamed124&show_icons=true&theme=default&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimMohamed124&layout=compact&theme=default&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ibrahimMohamed124&theme=radical&hide_border=true" height="165" />
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-<br>
+## 🧭 Learning Path
 
-<table width="100%" style="border:2px solid #000;background:#FFFFFF;">
-<tr>
-<td style="background:#C0C0C0;padding:6px;font-weight:bold;">
-🧭 ROADMAP.EXE
-</td>
-</tr>
-<tr>
-<td style="padding:12px;font-family:monospace;">
+- 🔹 Next 3 Months: Docker · DRF Advanced · Testing (Unit & Integration) · x86/x64 Assembly Projects  
+- 🔹 6 Months: CI/CD with GitHub Actions · Deploying full production apps on Linux Ubuntu  
+- 🔹 1 Year: Build open-source projects, system-level programming, and publish technical write-ups  
 
-[ ] Docker & CI/CD  
-[ ] Advanced Backend Testing  
-[ ] Linux Production Deployment  
-[ ] Open Source Contributions  
-[ ] System-Level Programming  
+---
 
-</td>
-</tr>
-</table>
+## ✨ What’s Next?
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,azure,bash,postman,linux&perline=7" alt="learning next" />
+</p>
 
-<table width="100%" style="border:2px solid #000;background:#FFFFFF;">
-<tr>
-<td style="background:#C0C0C0;padding:6px;font-weight:bold;">
-🌐 CONNECT.URL
-</td>
-</tr>
-<tr>
-<td align="center" style="padding:12px;">
+---
 
-<a href="https://github.com/ibrahimMohamed124">GitHub</a> |
-<a href="https://www.linkedin.com/in/ibrahim-mohamed-8020292ba/">LinkedIn</a> |
-<a href="mailto:ibrahimrs1234@gmail.com">Email</a>
+## 🌍 Connect with Me
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ibrahimMohamed124"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ibrahim-mohamed-8020292ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/ibrahim.mohamed.542018/"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:ibrahimrs1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<br>
+---
 
-<div align="center" style="font-family:monospace;">
-──────────────────────────  
-System Message:  
-<i>"Dream big, code bigger."</i>  
-──────────────────────────  
-</div>
+<p align="center">
+  <i>“Dream big, code bigger. Your repo is your legacy.”</i>
+</p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ibrahimMohamed124&color=000080&style=flat-square" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahimMohamed124&color=00e6b8&style=flat-square" alt="Profile Views"/>
+</p>
