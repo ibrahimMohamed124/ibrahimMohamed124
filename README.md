@@ -6,7 +6,7 @@
 
 
 <!-- 🌟 Animated Programmer GIF -->
-<img src="https://illustrations.popsy.co/gray/web-development.svg" width="400" alt="Software Engineer Illustration" style="margin-top:15px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8892B0&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Flutter+Developer" />
 
 
 <p>📍 Alexandria, Egypt 🇪🇬</p>
