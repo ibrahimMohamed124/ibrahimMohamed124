@@ -2,7 +2,8 @@
 <div align="center">
 
 <!-- 🌌 Neon Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+I'm+Ibrahim+Mohamed+👋;Software+Engineer+💻;Welcome+to+my+world+🌍!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=160&section=header&text=Ibrahim%20Mohamed&fontSize=42&fontColor=64FFDA&animation=fadeIn&fontAlignY=35" />
+
 
 <!-- 🌟 Animated Programmer GIF -->
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 15px #00F5D4)"/>
