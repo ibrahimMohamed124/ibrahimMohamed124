@@ -19,10 +19,10 @@
 
 - 🎓 Software Engineer  
 - 💻 Full-Stack .NET Developer focused on Microsoft Technologies and Odoo ERP  
-- ⚙ Skilled in C#, C/C++, Java, Python, HTML, CSS, JavaScript, and x86/x64 Assembly  
+- ⚙ Skilled in C/C++, Python, HTML, CSS, JavaScript, 
+- Additional skills in Java, Assembly(x86/x64), Java, and Dart  
 - 🐧 Experienced in Linux Ubuntu environment and shell scripting  
-- 🧩 Passionate about building strong backend systems, reverse engineering, and clean UI integration  
-- 🚀 Aim: Become one of the top open-source contributors in the dev community  
+- 🧩 Passionate about building strong backend systems, and clean UI integration  
 
 ---
 
@@ -56,14 +56,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ibrahimMohamed124&theme=radical&hide_border=true" height="165" />
 </p>
-
----
-
-## 🧭 Learning Path
-
-- 🔹 Next 3 Months: Docker · DRF Advanced · Testing (Unit & Integration) · x86/x64 Assembly Projects  
-- 🔹 6 Months: CI/CD with GitHub Actions · Deploying full production apps on Linux Ubuntu  
-- 🔹 1 Year: Build open-source projects, system-level programming, and publish technical write-ups  
 
 ---
 
