@@ -18,8 +18,8 @@
 ## 🧠 About Me
 
 - 🎓 Software Engineer  
-- 💻 Full-Stack .NET Developer focused on Microsoft Technologies and Odoo ERP  
-- ⚙ Skilled in C/C++, Python, HTML, CSS, JavaScript, 
+- 💻 Full-Stack Web Developer  
+- ⚙ Skilled in HTML, CSS, JavaScript, Python, C/C++
 - Additional skills in Java, Assembly(x86/x64), Java, and Dart  
 - 🐧 Experienced in Linux Ubuntu environment and shell scripting  
 - 🧩 Passionate about building strong backend systems, and clean UI integration  
