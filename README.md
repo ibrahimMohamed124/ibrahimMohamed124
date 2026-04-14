@@ -6,7 +6,7 @@
 
 
 <!-- 🌟 Animated Programmer GIF -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 15px #00F5D4)"/>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 15px #00F5D4)"/>
 
 
 <p>📍 Alexandria, Egypt 🇪🇬</p>
