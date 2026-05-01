@@ -29,7 +29,7 @@
 ## ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,javascript,typescript,git,postman,bash" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,html,css,javascript,typescript,git,postman,bash" alt="skills" />
 </p>
 
 ---
