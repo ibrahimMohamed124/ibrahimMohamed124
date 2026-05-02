@@ -20,7 +20,7 @@
 - 🎓 Software Engineer  
 - 💻 Full-Stack Web Developer  
 - ⚙ Skilled in HTML, CSS, JavaScript,Java, Kotlin, Python, and C/C++
-- Additional skills in Java, Assembly(x86/x64), Java, and Dart  
+- Additional skills in Assembly(x86/x64), reverse engineering 
 - 🐧 Experienced in Linux Ubuntu environment and shell scripting  
 - 🧩 Passionate about building strong backend systems, and clean UI integration  
 
