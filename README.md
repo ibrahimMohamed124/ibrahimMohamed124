@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 - 🎓 Software Engineer  
-- 💻 Full-Stack Web Developer  
+- 💻 Full-Stack Mobile & Web Developer  
 - ⚙ Skilled in HTML, CSS, JavaScript, Java, Kotlin, Python, and C/C++
 - Additional skills in Assembly(x86/x64), reverse engineering 
 - 🐧 Experienced in Linux Ubuntu environment and shell scripting  
@@ -62,7 +62,7 @@
 ## ✨ What’s Next?
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,azure,bash,postman,linux&perline=7" alt="learning next" />
+  <img src="https://skillicons.dev/icons?i=docker,react&perline=7" alt="learning next" />
 </p>
 
 ---
