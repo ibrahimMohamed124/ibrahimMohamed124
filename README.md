@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- 🌌 Neon Animated Header -->
-> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+I'm+Ibrahim+Mohamed+👋;Software+Engineer+💻;Welcome+to+my+world+🌍!" alt="Typing SVG" />
+> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey,+I'm+Ibrahim+Mohamed+👋;Software+Engineer+💻;Welcome+to+my+world+🌍!" alt="Typing SVG" />
 
 
 <!-- 🌟 Animated Programmer GIF -->
@@ -17,19 +17,18 @@
 
 ## 🧠 About Me
 
-- 🎓 Software Engineer  
-- 💻 Full-Stack Mobile & Web Developer  
-- ⚙ Skilled in HTML, CSS, JavaScript, Java, Kotlin, Python, and C/C++
-- Additional skills in Assembly(x86/x64), reverse engineering 
+- 💻 Software Engineer  
+- ⚙ Skilled in HTML, CSS, JavaScript, Java, Python, Rust, and C/C++
+- Additional skills in Assembly(x86/x64), and reverse engineering 
 - 🐧 Experienced in Linux Ubuntu environment and shell scripting  
 - 🧩 Passionate about building strong backend systems, and clean UI integration  
 
 ---
 
-## ⚙ Tech Stack
+## ⚙ Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,html,css,javascript,typescript,git,postman,bash" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,python,html,css,javascript,typescript,git,postman,bash" alt="skills" />
 </p>
 
 ---
@@ -55,14 +54,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ibrahimMohamed124&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
-## ✨ What’s Next?
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react&perline=7" alt="learning next" />
 </p>
 
 ---
