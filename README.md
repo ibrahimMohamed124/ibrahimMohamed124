@@ -28,7 +28,7 @@
 ## ⚙ Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,javascript,typescript,html,css,java,python,git,postman,bash" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,javascript,typescript,html,css,java,python,powershell,bash,git,postman" alt="skills" />
 </p>
 
 ---
