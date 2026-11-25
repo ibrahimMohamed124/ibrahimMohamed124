@@ -19,7 +19,6 @@
 
 - 💻 Software Engineer  
 - ⚙ Skilled in HTML, CSS, JavaScript, Java, Python, Rust, and C/C++
-- Additional skills in Assembly(x86/x64), and reverse engineering 
 - 🐧 Experienced in Linux Ubuntu environment and shell scripting  
 - 🧩 Passionate about building strong backend systems, and clean UI integration  
 
